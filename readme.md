@@ -91,6 +91,7 @@ along a hallway and returns the number of times the employees will salute.
 s will contain at least 1 and at most 100 characters, each one of -, >, or <.
 
 **TestCases**
+
     Input:
         (string) s = ">----<"
     Output:
