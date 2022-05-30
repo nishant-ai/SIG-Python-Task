@@ -65,8 +65,8 @@ You've spotted one such source, and you think solving it will help you build
 the reputation you need to get promoted.
 
 Every time the Commander's employees pass each other in the hall,
-each of them must stop and salute each other - one at a time
-- before resuming their path. A salute is five seconds long, so each 
+each of them must stop and salute each other - one at a time -
+before resuming their path. A salute is five seconds long, so each 
 exchange of salutes takes a full ten seconds 
 (Commander Lambda's salute is a bit, er, involved). 
 You think that by removing the salute requirement, 
